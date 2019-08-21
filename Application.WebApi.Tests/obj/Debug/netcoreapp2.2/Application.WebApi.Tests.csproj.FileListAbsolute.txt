@@ -1,0 +1,17 @@
+C:\Users\Rudi\source\repos\Application\Application.WebApi.Tests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\Rudi\source\repos\Application\Application.WebApi.Tests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\Rudi\source\repos\Application\Application.WebApi.Tests\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\Rudi\source\repos\Application\Application.WebApi.Tests\bin\Debug\netcoreapp2.2\Application.WebApi.Tests.deps.json
+C:\Users\Rudi\source\repos\Application\Application.WebApi.Tests\bin\Debug\netcoreapp2.2\Application.WebApi.Tests.runtimeconfig.json
+C:\Users\Rudi\source\repos\Application\Application.WebApi.Tests\bin\Debug\netcoreapp2.2\Application.WebApi.Tests.runtimeconfig.dev.json
+C:\Users\Rudi\source\repos\Application\Application.WebApi.Tests\bin\Debug\netcoreapp2.2\Application.WebApi.Tests.dll
+C:\Users\Rudi\source\repos\Application\Application.WebApi.Tests\bin\Debug\netcoreapp2.2\Application.WebApi.dll
+C:\Users\Rudi\source\repos\Application\Application.WebApi.Tests\bin\Debug\netcoreapp2.2\Application.WebApi.pdb
+C:\Users\Rudi\source\repos\Application\Application.WebApi.Tests\obj\Debug\netcoreapp2.2\Application.WebApi.Tests.csprojAssemblyReference.cache
+C:\Users\Rudi\source\repos\Application\Application.WebApi.Tests\obj\Debug\netcoreapp2.2\Application.WebApi.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Rudi\source\repos\Application\Application.WebApi.Tests\obj\Debug\netcoreapp2.2\Application.WebApi.Tests.AssemblyInfoInputs.cache
+C:\Users\Rudi\source\repos\Application\Application.WebApi.Tests\obj\Debug\netcoreapp2.2\Application.WebApi.Tests.AssemblyInfo.cs
+C:\Users\Rudi\source\repos\Application\Application.WebApi.Tests\obj\Debug\netcoreapp2.2\Application.WebApi.Tests.csproj.CopyComplete
+C:\Users\Rudi\source\repos\Application\Application.WebApi.Tests\bin\Debug\netcoreapp2.2\Application.WebApi.Tests.pdb
+C:\Users\Rudi\source\repos\Application\Application.WebApi.Tests\obj\Debug\netcoreapp2.2\Application.WebApi.Tests.dll
+C:\Users\Rudi\source\repos\Application\Application.WebApi.Tests\obj\Debug\netcoreapp2.2\Application.WebApi.Tests.pdb

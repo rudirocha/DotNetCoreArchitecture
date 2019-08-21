@@ -1,0 +1,14 @@
+C:\Users\Rudi\source\repos\Application\Application.WebApi\bin\Debug\netcoreapp2.2\Application.WebApi.deps.json
+C:\Users\Rudi\source\repos\Application\Application.WebApi\bin\Debug\netcoreapp2.2\Application.WebApi.runtimeconfig.json
+C:\Users\Rudi\source\repos\Application\Application.WebApi\bin\Debug\netcoreapp2.2\Application.WebApi.runtimeconfig.dev.json
+C:\Users\Rudi\source\repos\Application\Application.WebApi\bin\Debug\netcoreapp2.2\Application.WebApi.dll
+C:\Users\Rudi\source\repos\Application\Application.WebApi\bin\Debug\netcoreapp2.2\Application.WebApi.pdb
+C:\Users\Rudi\source\repos\Application\Application.WebApi\obj\Debug\netcoreapp2.2\Application.WebApi.csprojAssemblyReference.cache
+C:\Users\Rudi\source\repos\Application\Application.WebApi\obj\Debug\netcoreapp2.2\Application.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Rudi\source\repos\Application\Application.WebApi\obj\Debug\netcoreapp2.2\Application.WebApi.RazorAssemblyInfo.cache
+C:\Users\Rudi\source\repos\Application\Application.WebApi\obj\Debug\netcoreapp2.2\Application.WebApi.RazorAssemblyInfo.cs
+C:\Users\Rudi\source\repos\Application\Application.WebApi\obj\Debug\netcoreapp2.2\Application.WebApi.AssemblyInfoInputs.cache
+C:\Users\Rudi\source\repos\Application\Application.WebApi\obj\Debug\netcoreapp2.2\Application.WebApi.AssemblyInfo.cs
+C:\Users\Rudi\source\repos\Application\Application.WebApi\obj\Debug\netcoreapp2.2\Application.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\Rudi\source\repos\Application\Application.WebApi\obj\Debug\netcoreapp2.2\Application.WebApi.dll
+C:\Users\Rudi\source\repos\Application\Application.WebApi\obj\Debug\netcoreapp2.2\Application.WebApi.pdb
